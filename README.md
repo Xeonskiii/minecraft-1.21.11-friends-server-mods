@@ -39,7 +39,7 @@ Double click the instance and you're good to go!
 
 ## Joining the Server
 
-The server should already be configured and present in the instance. If not here is the address: **gas-holders.gl.joinmc.link**
+The server should already be configured and present in the instance. If not here ask the owner for the address.
 
 ---
 

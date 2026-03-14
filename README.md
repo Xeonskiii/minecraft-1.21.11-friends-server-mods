@@ -2,16 +2,16 @@
 
 A modpack for my friends server. Includes performance optimizations, biome overhauls, dungeon improvements, decoration mods, and more.
 
----
+
 
 ## Requirements
 
 - [Prism Launcher](https://prismlauncher.org/) 
 - Minecraft 1.21.11
-- Java 21 — [Download here](https://adoptium.net/)
+- Java 21
 - At least **6GB RAM** allocated to Minecraft
 
----
+
 
 ## Installation
 
@@ -35,13 +35,13 @@ Make sure you have Prism Launcher installed and logged into your Minecraft accou
 ### Step 5 — Launch
 Double click the instance and you're good to go!
 
----
+
 
 ## Joining the Server
 
 The server should already be configured and present in the instance. If not here ask the owner for the address.
 
----
+
 
 ## Troubleshooting
 
@@ -58,7 +58,7 @@ The server should already be configured and present in the instance. If not here
 - Make sure you're using the correct playit.gg address
 - Check that the server is online
 
----
+---dd
 
 ## Mod List
 

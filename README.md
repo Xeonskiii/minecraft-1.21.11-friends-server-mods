@@ -58,7 +58,7 @@ The server should already be configured and present in the instance. If not here
 - Make sure you're using the correct playit.gg address
 - Check that the server is online
 
----dd
+--
 
 ## Mod List
 

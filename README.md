@@ -30,7 +30,7 @@ Make sure you have Prism Launcher installed and logged into your Minecraft accou
 ### Step 4 — Allocate RAM
 1. Right click the new instance → **Edit**
 2. Go to **Settings** → **Java**
-3. Set **Maximum memory allocation** to at least **6144 MB** (6GB), ideally **8192 MB** (8GB)
+3. Set **Maximum memory allocation** to at least **6144 MB** (6GB), ideally **8192 MB** (8GB) or higher.
 
 ### Step 5 — Launch
 Double click the instance and you're good to go!
@@ -51,14 +51,13 @@ The server should already be configured and present in the instance. If not here
 
 **Low FPS**
 - Make sure your GPU drivers are up to date
-- Check that Sodium is active in the mod list
 - Lower your graphics settings (Render distance, Shaders, etc.)
 
 **Can't connect to server**
-- Make sure you're using the correct playit.gg address
+- Make sure you're using the correct address
 - Check that the server is online
 
----dd
+
 
 ## Mod List
 

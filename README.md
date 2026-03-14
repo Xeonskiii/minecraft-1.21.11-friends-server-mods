@@ -22,7 +22,7 @@ Download `Friends.zip` from this repository (click the file → **Download raw f
 Make sure you have Prism Launcher installed and logged into your Minecraft account.
 
 ### Step 3 — Import the instance
-1. Click **Add Instance** in the top left
+1. Enter Prism Launcher and Click **Add Instance** in the top left
 2. Select **Import** from the left sidebar
 3. Click **Browse** and select the downloaded `Friends.zip`
 4. Click **OK**
